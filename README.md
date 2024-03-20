@@ -18,13 +18,15 @@ Figure 6(c), 7(a), 7(b), 7(c), 7(d) are all obtained via running the script "two
 
 Folder 4: Ising Model 1D
 
+Figure 10(a) is obtained by running the script "oneD_Ising_F_boxplot_multiple_trial.m". Figure 10(b) and 10(c) are obtained via running the script "oneD_Ising_F_MC_one_trial.m". Figure 10(d) is obtained by running the script "oneD_Ising_F_large_sample.m".
 
+Figure 11(a) is obtained by running the script "oneD_Ising_Anti_F_boxplot_multiple_trial.m". Figure 11(b) and 11(c) are obtained via running the script "oneD_Ising_Anti_F_MC_one_trial.m". Figure 11(d) is obtained by running the script "oneD_Ising_Anti_F_large_sample.m".
 
 Folder 5: Ising Model 2D
 
+Figure 12(a) is obtained by running the script "twoD_Ising_F_boxplot_multiple_trial.m". Figure 12(b) and 12(c) are obtained via running the script "twoD_Ising_F_MC_one_trial.m". Figure 12(d) is obtained by running the script "twoD_Ising_F_large_sample.m".
 
-
-
+Figure 13(a) is obtained by running the script "twoD_Ising_Anti_F_boxplot_multiple_trial.m". Figure 13(b) and 13(c) are obtained via running the script "twoD_Ising_Anti_F_MC_one_trial.m". Figure 13(d) is obtained by running the script "twoD_Ising_Anti_F_large_sample.m".
 
 Folder 6: Many Well
 
